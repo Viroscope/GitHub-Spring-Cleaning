@@ -66,3 +66,5 @@ This project is licensed under the MIT License—see the [LICENSE](LICENSE) file
 ## Contributing
 
 Contributions are welcome! Feel free to submit pull requests or open issues for enhancements or bug fixes.
+
+![image](https://github.com/user-attachments/assets/a8961aa4-d746-4f38-adb2-2856f3a19ece)
