@@ -58,6 +58,8 @@ Upon running the script, you'll be presented with three options:
 
 - Use caution when choosing the "Delete Repositories" option as it cannot be undone!
 - Ensure that you've backed up any important data before proceeding with deletion.
+- When backing up, it will not backup pre-existing projects in the backup directory.
+- This is a choice, if for some reason it hangs, delete that dir and restart to ensure complete backup.
 
 ## License
 
